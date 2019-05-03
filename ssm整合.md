@@ -727,6 +727,6 @@ log4j.appender.File.layout.ConversionPattern = [%p][%d{yyyy-MM-dd HH:mm:ss}][%c]
 jdbc.url=jdbc:mysql://localhost:3306/ssm
 jdbc.driver=com.mysql.cj.jdbc.Driver
 jdbc.username=root
-jdbc.password=3601658lss
+jdbc.password=xxxx
 ```
 
